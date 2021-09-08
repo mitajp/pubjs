@@ -1,4 +1,1 @@
-function start(){
-    alert('hello world!');
-}
-start();
+alert('hello world!');
